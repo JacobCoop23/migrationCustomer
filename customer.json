@@ -1,0 +1,34 @@
+{
+  "Name": "Jason Kraft",
+  "city": "Metro City",
+  "birth": 2016,
+  "medical": "Stail pain",
+  "active": true,
+  "members": [
+    {
+      "name": "Sonia Kraft",
+      "age": 29,
+      "Identity": "Dan Jukes",
+      "condition": ["Turning tiny", "Radiation blast"]
+    },
+    {
+      "name": "Falafel Yasmine",
+      "age": 39,
+      "secret": "Jane Wilson",
+      "powers": [
+        "Million  punch",
+        "Damage  uppercut resistance",
+        "Superhuman heart"
+      ]
+    },
+    {
+      "name": "Eternal jenny",
+      "age": 45,
+      "secretIdentity": "Unknown",
+      "powers": [
+        
+        "no disease"
+      ]
+    }
+  ]
+}
